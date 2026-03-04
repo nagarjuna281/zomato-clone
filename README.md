@@ -11,6 +11,9 @@ Special thanks to the original author for laying the foundation.
 
 This project is a full-stack clone of the Zomato food delivery platform, enhanced with a secure CI/CD pipeline using Jenkins, Docker, Trivy, and SonarQube.
 
+<img width="583" height="413" alt="2" src="https://github.com/user-attachments/assets/49f2f9ae-7c41-402a-a705-d9ae83a191df" />
+
+
 ## 🔐 Security-First DevOps Workflow
 
 The pipeline includes:
